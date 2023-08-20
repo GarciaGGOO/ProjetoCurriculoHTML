@@ -1,0 +1,40 @@
+img {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  right: 155px;
+  bottom: 250px;
+  border-radius: 20%;
+}
+
+.barra {
+  background-color: #8C6C87;
+  height: 900px;
+  width: 450px;
+  position: relative;
+}
+
+.texto {
+  position: relative;
+  right: 100px;
+  bottom: -48px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.obj {
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 50px;
+}
+a{
+  text-decoration: none;
+}
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px 0px 0px 0px;
+}
